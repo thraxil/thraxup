@@ -4,10 +4,10 @@
     "url": "https://thraxil.org/",
     "icon": "https://favicons.githubusercontent.com/thraxil.org",
     "slug": "thraxil-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
@@ -15,16 +15,18 @@
     "timeWeek": 310,
     "timeMonth": 327,
     "timeYear": 318,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 1
+    }
   },
   {
     "name": "myopica",
     "url": "https://myopica.org/",
     "icon": "https://favicons.githubusercontent.com/myopica.org",
     "slug": "myopica",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 257,
     "timeMonth": 277,
     "timeYear": 312,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   }
 ]
