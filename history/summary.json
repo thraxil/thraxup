@@ -4,19 +4,19 @@
     "url": "https://thraxil.org/",
     "icon": "https://favicons.githubusercontent.com/thraxil.org",
     "slug": "thraxil-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 225,
-    "timeWeek": 310,
-    "timeMonth": 327,
-    "timeYear": 318,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "92.94%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.81%",
+    "time": 315,
+    "timeDay": 213,
+    "timeWeek": 296,
+    "timeMonth": 323,
+    "timeYear": 315,
     "dailyMinutesDown": {
-      "2021-02-05": 1
+      "2021-02-05": 102
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://myopica.org/",
     "icon": "https://favicons.githubusercontent.com/myopica.org",
     "slug": "myopica",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 359,
-    "timeWeek": 257,
-    "timeMonth": 277,
-    "timeYear": 312,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "92.98%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.82%",
+    "time": 313,
+    "timeDay": 353,
+    "timeWeek": 269,
+    "timeMonth": 279,
+    "timeYear": 313,
     "dailyMinutesDown": {
-      "2021-02-05": 0
+      "2021-02-05": 101
     }
   }
 ]
