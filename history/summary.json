@@ -11,9 +11,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.82%",
     "time": 331,
-    "timeDay": 1128,
-    "timeWeek": 316,
-    "timeMonth": 354,
+    "timeDay": 345,
+    "timeWeek": 335,
+    "timeMonth": 330,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2021-02-05": 102
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/myopica.org",
     "slug": "myopica",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.00%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "99.82%",
-    "time": 311,
-    "timeDay": 374,
-    "timeWeek": 269,
-    "timeMonth": 283,
-    "timeYear": 311,
+    "uptimeYear": "99.83%",
+    "time": 312,
+    "timeDay": 336,
+    "timeWeek": 290,
+    "timeMonth": 263,
+    "timeYear": 312,
     "dailyMinutesDown": {
       "2021-02-05": 101
     }
