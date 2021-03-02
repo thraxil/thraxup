@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/thraxil.org",
     "slug": "thraxil-org",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "99.88%",
-    "time": 317,
-    "timeDay": 285,
-    "timeWeek": 236,
-    "timeMonth": 300,
-    "timeYear": 317,
+    "uptimeYear": "99.89%",
+    "time": 314,
+    "timeDay": 140,
+    "timeWeek": 224,
+    "timeMonth": 299,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2021-02-05": 102
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.89%",
     "time": 308,
-    "timeDay": 362,
-    "timeWeek": 290,
-    "timeMonth": 297,
+    "timeDay": 345,
+    "timeWeek": 300,
+    "timeMonth": 298,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2021-02-05": 101
